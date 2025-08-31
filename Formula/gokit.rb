@@ -1,7 +1,7 @@
 class Gokit < Formula
   desc "GoKit - Microservice development toolkit"
   homepage "https://github.com/kumarabd/gokit"
-  version "0.2.5"
+  version "1.0.0"
 
   on_macos do
     if Hardware::CPU.arm?
